@@ -176,15 +176,15 @@ d-cache:
 # Exception generation
 # ---------------------------------------------------------------------------------
 exception-generation:
-  ecause00: 0
+  ecause00: 1
   ecause01: 0
-  ecause02: 0
+  ecause02: 5
   ecause03: 0
-  ecause04: 0
+  ecause04: 1
   ecause05: 0
-  ecause06: 0
-  ecause07: 0
-  ecause08: 0
+  ecause06: 3
+  ecause07: 1
+  ecause08: 1
   ecause09: 0
 
 
@@ -195,7 +195,7 @@ data-hazards:
   raw_prob: 0.5
   war_prob: 0.5
   waw_prob: 0.5
-  num_regs_lookbehind: 3
+  num_regs_lookbehind: 5
 
 program-macro:
   pre_program_macro: "add x0,x0,x0"
@@ -211,7 +211,7 @@ program-macro:
   ecause06: "random"
   ecause07: "random"
   ecause08: "random"
-  ecause09: "random" 
+  ecause09: "random"
 
 # ---------------------------------------------------------------------------------
 # Self Checking 
