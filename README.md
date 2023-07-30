@@ -81,4 +81,10 @@ After we config succesfully run `make` and we should see a 10 exceptions write t
 ![Screenshot 2566-07-30 at 16 28 05](https://github.com/vyomasystems-lab/riscv-ctb-challenge-PatNJ18/assets/88830316/7870540e-0bbe-4449-9235-949f9612a098)
 
 
+## Challenge Level 3
+
+![image](https://github.com/vyomasystems-lab/riscv-ctb-challenge-PatNJ18/assets/88830316/e30fa833-89b1-4044-a986-04fc2035a335)
+
+
+
 
